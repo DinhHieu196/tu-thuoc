@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271344412144",
+    "project_id": "novapharm-92d96",
+    "storage_bucket": "novapharm-92d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271344412144:android:ed35bab0b699018c17e935",
+        "android_client_info": {
+          "package_name": "com.novapharm.tuthuoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRd8MKyT1qTMdxvhVF85p0auukkT60IS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
